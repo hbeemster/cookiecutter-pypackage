@@ -8,17 +8,17 @@ Installation
 Stable release
 --------------
 
-To install {{ cookiecutter.project\_name }}, run this command in your
+To install {{ cookiecutter.project_name }}, run this command in your
 terminal:
 
 ``` {.sourceCode .console}
 $ pip install {{ cookiecutter.project_slug }}
 ```
 
-This is the preferred method to install {{ cookiecutter.project\_name
+This is the preferred method to install {{ cookiecutter.project_name
 }}, as it will always install the most recent stable release.
 
-If you don\'t have [pip](https://pip.pypa.io) installed, this [Python
+If you don't have [pip](https://pip.pypa.io) installed, this [Python
 installation
 guide](http://docs.python-guide.org/en/latest/starting/installation/)
 can guide you through the process.
@@ -26,7 +26,7 @@ can guide you through the process.
 From sources
 ------------
 
-The sources for {{ cookiecutter.project\_name }} can be downloaded from
+The sources for {{ cookiecutter.project_name }} can be downloaded from
 the [Github
 repo](https://github.com/%7B%7B%20cookiecutter.github_username%20%7D%7D/%7B%7B%20cookiecutter.project_slug%20%7D%7D).
 

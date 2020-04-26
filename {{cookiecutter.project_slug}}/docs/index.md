@@ -1,9 +1,9 @@
-Welcome to {{ cookiecutter.project\_name }}\'s documentation!
+Welcome to {{ cookiecutter.project_name }}'s documentation!
 ======================================
 
 ::: {.toctree}
 readme installation usage modules contributing {% if
-cookiecutter.create\_author\_file == \'y\' -%}authors {% endif
+cookiecutter.create_author_file == 'y' -%}authors {% endif
 -%}history
 :::
 
