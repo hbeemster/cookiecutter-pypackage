@@ -5,7 +5,7 @@ title: Credits
 Development Lead
 ================
 
--   {{ cookiecutter.full\_name }} \<{{ cookiecutter.email }}\>
+-   {{ cookiecutter.full\_name }} <{{ cookiecutter.email }}>
 
 Contributors
 ============
